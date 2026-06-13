@@ -1,0 +1,21 @@
+# Ocultar TODA la carpeta de experimentos y borradores
+Experimentos/
+
+# Ocultar la carpeta con los datos pesados de Gaia (CSV, DAT, etc.)
+datos_gaia/
+Repositorio-de-Prueba/
+
+# Ocultar cachés automáticos de Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# ¿Ocultar URL? Aquí
+*.url
+
+#¿Ocultar todos los imágenes?
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
